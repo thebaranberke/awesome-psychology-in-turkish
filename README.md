@@ -1,111 +1,109 @@
-# Awesome Psychology
-A categorized community-driven collection of high-quality awesome Psychology courses, videos, and books.
+# Müthiş Psikoloji
+Yüksek kalitede harika Psikoloji dersleri, videoları ve kitaplarından oluşan, kategorilere ayrılmış, topluluk odaklı bir koleksiyon.
 
-Suggestions and contributions are always welcome!
+Öneri ve katkılarınız her zaman memnuniyetle karşılanır!
 
-## Table Of Contents
-- [Psychology Books](#psychology-books)  
-- [Psychology Experiments](#psychology-experiments)
-- [Self-Development](#self-development)
-  - [Decision Making](#decision-making)
-  - [Discipline](#discipline)
-  - [Happiness](#happiness)
-  - [Negotiation](#negotiation)
-- [Ted Talks](#ted-talks)
-- [University Courses](#university-courses)
+## İçindekiler
+- [Psikoloji Kitapları](#psychology-books)  
+- [Psikoloji Deneyleri](#psychology-experiments)
+- [Kişisel Gelişim](#self-development)
+  - [Karar Verme](#decision-making)
+  - [Disiplin](#discipline)
+  - [Mutluluk](#happiness)
+  - [Müzakere](#negotiation)
+- [TED Konuşmaları](#ted-talks)
+- [Üniversite Kursları](#university-courses)
   - [MIT](#mit)
-  - [Wesleyan University](#wesleyan-university)
+  - [Wesleyan Üniversitesi](#wesleyan-university)
   - [Yale](#yale)
   
-## Psychology Books
-  - [Christopher Hitchens, "God Is Not Great: How Religion Poisons Everything", 2009](https://www.amazon.com/God-Not-Great-Religion-Everything/dp/0446697966)  
-  In the tradition of Bertrand Russell's Why I Am Not a Christian and Sam Harris's recent bestseller, The End of Faith, Christopher Hitchens makes the ultimate case against religion. With a close and erudite reading of the major religious texts, he documents the ways in which religion is a man-made wish, a cause of dangerous sexual repression, and a distortion of our origins in the cosmos. With eloquent clarity, Hitchens frames the argument for a more secular life based on science and reason, in which hell is replaced by the Hubble Telescope's awesome view of the universe, and Moses and the burning bush give way to the beauty and symmetry
-of the double helix.
-  - [Ernest Becker, "The Denial of Death", 1997](https://www.amazon.com/Denial-Death-Ernest-Becker/dp/0684832402)  
-  Winner of the Pulitzer prize in 1974 and the culmination of a life's work, The Denial of Death is Ernest Becker's brilliant and impassioned answer to the "why" of human existence. In bold contrast to the predominant Freudian school of thought, Becker tackles the problem of the vital lie -- man's refusal to acknowledge his own mortality. In doing so, he sheds new light on the nature of humanity and issues a call to life and its living that still resonates more than twenty years after its writing.
-  - [Jon Ronson, "The Psychopath Test: A Journey Through the Madness Industry", 2012](https://www.amazon.com/Psychopath-Test-Journey-Through-Industry/dp/1594485755)  
-  In this madcap journey, a bestselling journalist investigates psychopaths and the industry of doctors, scientists, and everyone else who studies them. 
-  - [Oliver Sacks, "The Man Who Mistook His Wife For A Hat: And Other Clinical Tales", 1998](https://www.amazon.com/Man-Who-Mistook-His-Wife/dp/0684853949)  
-  In his most extraordinary book, “one of the great clinical writers of the twentieth century” (The New York Times) recounts the case histories of patients lost in the bizarre, apparently inescapable world of neurological disorders.
-  - [Paul Bloom, "How Pleasure Works: The New Science of Why We Like What We Like", 2011](https://www.amazon.com/How-Pleasure-Works-Science-Like/dp/0393340007)  
-  Why is an artistic masterpiece worth millions more than a convincing forgery? Pleasure works in mysterious ways, as Paul Bloom reveals in this investigation of what we desire and why. Drawing on a wealth of surprising studies, Bloom investigates pleasures noble and seamy, lofty and mundane, to reveal that our enjoyment of a given thing is determined not by what we can see and touch but by our beliefs about that thing’s history, origin, and deeper nature.
-  - [Paul Bloom, "Just Babies: The Origins of Good and Evil", 2014](https://www.amazon.com/Just-Babies-Origins-Good-Evil/dp/0307886859)  
-  A leading cognitive scientist argues that a deep sense of good and evil is bred in the bone.
-  - [Philip Zimbardo, "The Lucifer Effect: Understanding How Good People Turn Evil", 2008](https://www.amazon.com/Lucifer-Effect-Understanding-Good-People/dp/0812974441)  
-  The definitive firsthand account of the groundbreaking research of Philip Zimbardo—the basis for the award-winning film The Stanford Prison Experiment.
-  - [Richard Dawkins, "The Selfish Gene", 1976](https://www.amazon.com/Selfish-Gene-New-Richard-Dawkins/dp/0192177737)  
-  Richard Dawkins' brilliant reformulation of the theory of natural selection has the rare distinction of having provoked as much excitement and interest outside the scientific community as within it. His theories have helped change the whole nature of the study of social biology, and have forced thousands of readers to rethink their beliefs about life.
-In his internationally bestselling, now classic volume, The Selfish Gene, Dawkins explains how the selfish gene can also be a subtle gene.
+## Psikoloji Kitapları
+  - [Christopher Hitchens, "Tanrı Harika Değildir - Din Her Şeyi Nasıl Zehirler", 2009](https://www.nadirkitap.com/god-is-not-great-how-religion-poisons-everything-tanri-harika-degildir-din-her-seyi-nasil-zehirler-ingilizce-kitap-christopher-hitchens-kitap42398977.html))  
+  Bertrand Russell'ın Neden Hristiyan Değilim ve Sam Harris'in son zamanlarda çok satan kitabı İnancın Sonu geleneğinde, Christopher Hitchens dine karşı nihai bir savunma sunuyor. Başlıca dini metinleri derinlemesine ve bilgili bir şekilde okuyarak, dinin nasıl insan yapımı bir arzu, tehlikeli bir cinsel baskının nedeni ve kozmostaki kökenlerimizin çarpıtılması olduğunu belgeliyor. Hitchens, bilim ve akla dayalı daha seküler bir yaşam argümanını etkileyici bir açıklıkla ortaya koyuyor; bu yaşamda cehennemin yerini Hubble Teleskobu'nun muhteşem evren görüntüsü alıyor ve Musa ile yanan çalının yerini çift sarmalın güzelliği ve simetrisi alıyor.
+  - [Ernest Becker, "Ölümü İnkar", 1997](https://www.kitapyurdu.com/kitap/olumu-inkar/563293.html?srsltid=AfmBOopChI2_wgRDuxZPBiKF3RaKONTikHBD5bswDLnLSRVC9rlPjVnx)  
+  1974'te Pulitzer Ödülü'nü kazanan ve bir ömür boyu süren çalışmalarının doruk noktası olan Ölümün İnkârı, Ernest Becker'ın insan varoluşunun "neden" sorusuna verdiği parlak ve tutkulu bir cevaptır. Baskın Freudyen düşünce ekolüne çarpıcı bir tezat oluşturan Becker, hayati yalan sorununu, yani insanın kendi ölümlülüğünü kabul etmeyi reddetmesini ele alır. Bunu yaparken, insanlığın doğasına yeni bir ışık tutar ve yazılmasından yirmi yıldan fazla bir süre sonra bile yankılanan bir yaşam ve yaşama çağrısı yapar.
+  - [Jon Ronson, "Psikopat Testi: Delilik Endüstrisinde Bir Yolculuk", 2012](https://www.nadirkitap.com/psikopat-testi-delilik-endustrisinde-bir-yolculuk-jon-ronson-kitap18155442.html)  
+ Bu çılgın yolculukta, çok satan bir gazeteci psikopatları ve onları inceleyen doktorların, bilim insanlarının ve diğer herkesin endüstrisini araştırıyor.
+  - [Oliver Sacks, "Karısını Şapka Sanan Adam ve Diğer Klinik Öyküler", 1998](https://www.amazon.com/Man-Who-Mistook-His-Wife/dp/0684853949)  
+ Yirminci yüzyılın en büyük klinik yazarlarından biri olan (The New York Times) bu sıra dışı kitabında, nörolojik bozuklukların tuhaf ve kaçınılmaz dünyasında kaybolmuş hastaların vaka öykülerini anlatıyor.
+  - [Paul Bloom, "Zevk Nasıl İşler: Neyi Neden Severiz", 2011](https://www.amazon.com/How-Pleasure-Works-Science-Like/dp/0393340007)  
+ Sanatsal bir şaheser, ikna edici bir sahtekarlıktan neden milyonlarca dolar daha değerlidir? Paul Bloom'un neyi ve neden arzuladığımızı araştırdığı bu kitapta ortaya koyduğu gibi, haz gizemli yollarla işler. Bloom, şaşırtıcı araştırmaların zenginliğinden yararlanarak, asil ve çirkin, yüce ve sıradan hazları inceliyor ve belirli bir şeyden aldığımız keyfin, görüp dokunabildiğimiz şeylerle değil, o şeyin tarihi, kökeni ve daha derin doğası hakkındaki inançlarımızla belirlendiğini ortaya koyuyor.
+  - [Paul Bloom, "Bebeklerin Ahlaki Yaşamı,İyinin ve Kötünün Kökenleri", 2014](https://www.kitapyurdu.com/kitap/bebeklerin-ahlaki-yasami-iyinin-ve-kotunun-kokenleri/608767.html?srsltid=AfmBOorRIvTaIUpQFmq9eUTD-ig_nEX9JRdIlUckgzA6JdyGxPjp3v8D)  
+ Önde gelen bir bilişsel bilimci, iyilik ve kötülüğe dair derin bir duygunun kemiklere yerleştiğini savunuyor.
+  - [Philip Zimbardo, "Lucifer Etkisi: İyi İnsanların Kötülüğe Nasıl Dönüştüğünü Anlamak", 2008](https://www.amazon.com/Lucifer-Effect-Understanding-Good-People/dp/0812974441)  
+ Ödüllü film Stanford Hapishane Deneyi'nin temelini oluşturan Philip Zimbardo'nun çığır açan araştırmasının kesin birinci elden anlatımı.
+  - [Richard Dawkins, "Gen Bencildir", 1976](https://www.kitapyurdu.com/kitap/gen-bencildir/342827.html?srsltid=AfmBOoogSblfK2rAuvTrFcfwWb1XjmJTVuwcGPkvRR5VgfjNtTl4yK6c)  
+  Richard Dawkins'in doğal seçilim teorisini zekice yeniden formüle etmesi, bilim camiasının içinde olduğu kadar dışında da heyecan ve ilgi uyandırması gibi nadir bir ayrıcalığa sahiptir. Teorileri, sosyal biyoloji çalışmalarının tüm doğasını değiştirmeye yardımcı olmuş ve binlerce okuyucuyu hayata dair inançlarını yeniden düşünmeye zorlamıştır.
+Dawkins, uluslararası alanda çok satan ve artık klasikleşmiş kitabı Bencil Gen'de, bencil genin aynı zamanda nasıl gizli bir gen olabileceğini açıklıyor.
 
-## Psychology Experiments
-- [Christopher Chabris, "The Invisible Gorilla", 2011](http://www.theinvisiblegorilla.com/videos.html)
-- [Harry F. Harlow, "Love in Infant Monkeys", 1959](https://en.wikipedia.org/wiki/Harry_Harlow#Monkey_studies)
-- [Philip Zimbardo, "The Stanford Prison Experiment", 1971](https://en.wikipedia.org/wiki/Stanford_prison_experiment)
-- [Stanley Milgram, "Milgram Experiment", 1963](http://www.simplypsychology.org/milgram.html)
+## Psikoloji Deneyleri
+- [Christopher Chabris, "Görünmez Goril", 2011](http://www.theinvisiblegorilla.com/videos.html)
+- [Harry F. Harlow, "Yenidoğan Maymunlarda Aşk", 1959](https://en.wikipedia.org/wiki/Harry_Harlow#Monkey_studies)
+- [Philip Zimbardo, "Stanford Hapishanesi Deneyi", 1971](https://en.wikipedia.org/wiki/Stanford_prison_experiment)
+- [Stanley Milgram, "Milgram Deneyi", 1963](http://www.simplypsychology.org/milgram.html)
 
-## Self-Development
-- [Carol S. Dweck, "Mindset: The New Psychology of Success", 2007](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)  
-World-renowned Stanford University psychologist Carol Dweck, in decades of research on achievement and success, has discovered a truly groundbreaking idea–the power of our mindset.
-- [Charles Duhigg, "The Power of Habit: Why We Do What We Do in Life and Business", 2014](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)  
-In The Power of Habit, Pulitzer Prize–winning business reporter Charles Duhigg takes us to the thrilling edge of scientific discoveries that explain why habits exist and how they can be changed.
-- [Dale Carnegie, "How to Stop Worrying and Start Living", 1990](https://www.amazon.com/How-Stop-Worrying-Start-Living/dp/0671733354)  
-Through Dale Carnegie’s six-million-copy bestseller recently revised, millions of people have been helped to overcome the worry habit. Dale Carnegie offers a set of practical formulas you can put to work today. In our fast-paced world—formulas that will last a lifetime!
-- [Dale Carnegie, "How to Win Friends & Influence People", 1998](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)  
-For more than sixty years the rock-solid, time-tested advice in this book has carried thousands of now famous people up the ladder of success in their business and personal lives.
-- [Malcolm Gladwell, "Blink: The Power of Thinking Without Thinking", 2007](https://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669)  
-In his landmark bestseller The Tipping Point, Malcolm Gladwell redefined how we understand the world around us. Now, in Blink, he revolutionizes the way we understand the world within.
+## Kişisel Gelişim
+- [Carol S. Dweck, "Aklını En Doğru Şekilde Kullan", 2007](https://www.kitapyurdu.com/kitap/aklini-en-dogru-sekilde-kullan/407054.html?srsltid=AfmBOopO41onXOJsjeheL7bBal3Rge7gPWC28gb2CR9PSXaFZXqMDm5S)  
+Başarı ve başarı üzerine onlarca yıldır araştırma yapan dünyaca ünlü Stanford Üniversitesi psikoloğu Carol Dweck, gerçekten çığır açıcı bir fikir keşfetti: Zihniyetimizin gücü.
+- [Charles Duhigg, "Alışkanlığın Gücü: Yaşamda ve İş Hayatında Yaptığımızı Neden Yapıyoruz", 2014](https://www.kitapyurdu.com/kitap/aliskanliklarin-gucu-ozel-ve-is-hayatimizda-aliskanliklarimizin-ardinda-ne-yatar/283685.html?srsltid=AfmBOooH_x1qdcKKG4GMKG7y9z2kSKpPsjG9zfK4SLcu0nKtujW8AsbT)  
+Pulitzer ödüllü iş muhabiri Charles Duhigg, Alışkanlıkların Gücü kitabında bizi alışkanlıkların neden var olduğunu ve nasıl değiştirilebileceğini açıklayan bilimsel keşiflerin heyecan verici sınırlarına götürüyor.
+- [Dale Carnegie, "Nasıl Endişelenmeyi Bırakıp Yaşamaya Başlarız?", 1990](https://www.nadirkitap.com/uzuntuyu-birak-yasamaya-bak-how-to-stop-worrying-and-start-living-turkce-dale-carnegie-kitap35176864.html)  
+Dale Carnegie'nin yakın zamanda revize edilen altı milyon kopya satan çok satan kitabı sayesinde milyonlarca insan endişe alışkanlığının üstesinden gelmeye yardımcı oldu. Dale Carnegie, bugün uygulayabileceğiniz bir dizi pratik formül sunuyor. Hem de hızlı tempolu dünyamızda, ömür boyu sürecek formüller!
+- [Dale Carnegie, "Nasıl Arkadaş Kazanıri İnsanları Etkileriz.", 1998](https://www.dr.com.tr/kitap/dost-kazanma-ve-insanlari-etkileme-sanati/egitim-basvuru/kisisel-gelisim/urunno=0000000056693?srsltid=AfmBOopDNV5QtkIA3p6PhXRJqv599iBo46M89x3CLs9jefD_J8im9HIh)  
+Bu kitaptaki sağlam ve zamanla test edilmiş tavsiyeler, altmış yılı aşkın bir süredir binlerce ünlü insanı iş ve özel yaşamlarında başarı merdivenlerinde yukarı taşıdı.
+- [Malcolm Gladwell, "Blink: Düşünmeden Düşünebilmenin Gücü", 2007](https://www.kitapyurdu.com/kitap/blink-dusunmeden-dusunebilmenin-gucu/341607.html?srsltid=AfmBOooNCrxiTb68nSoN9fekY7GnmNvTeMM-MaI7XSgHbPolBLO0i45j)  
+Malcolm Gladwell, çığır açan çok satan kitabı Tipping Point'te (Kıvrım Noktası) çevremizdeki dünyayı anlama biçimimizi yeniden tanımlamıştı. Şimdi ise Blink'te, içimizdeki dünyayı anlama biçimimizde devrim yaratıyor.
 - [Malcolm Gladwell, "Outliers: The Story of Success", 2011](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)  
 In this stunning new book, Malcolm Gladwell takes us on an intellectual journey through the world of "outliers"--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different?
-- [Malcolm Gladwell, "The Tipping Point: How Little Things Can Make a Big Difference", 2002](https://www.amazon.com/Tipping-Point-Little-Things-Difference/dp/0316346624)  
-The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate. This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas.
-- [The Great Courses, "The Art of Conflict Management: Achieving Solutions for Life, Work, and Beyond", 2010](https://www.amazon.com/Art-Conflict-Management-Achieving-Solutions/dp/B00DTO4OB0)  
-In 24 lectures brimming with practical tips, tools, and techniques everyone can use to better manage conflict in his or her professional and personal lives, gain the essential skills of conflict management.
+- [Malcolm Gladwell, "Kıvılcım Anı: Küçük Şeyler Nasıl Büyük Farklar Yaratır?", 2002](https://www.kitapyurdu.com/kitap/the-tipping-point-kivilcim-ani-kucuk-seyler-nasil-buyuk-farklar-yaratir/355052.html?srsltid=AfmBOoq7JQipiHLcgoPIQGlA8moNXMT2jH1oU3GSPUx8fThM5mnIQJ20)  
+Dönüm noktası, bir fikrin, trendin veya sosyal davranışın bir eşiği aştığı, hızla yayıldığı ve orman yangını gibi yayıldığı o büyülü andır. Tek bir hasta bile grip salgını başlatabildiği gibi, küçük ama isabetli bir hamle de bir moda trendine, yeni bir ürünün popülerliğine veya suç oranında düşüşe yol açabilir. Malcolm Gladwell'in dönüm noktası olgusunu incelediği ve zekice aydınlattığı, geniş çapta beğeni toplayan bu çok satan kitap, dünya genelinde insanların ürün satma ve fikir yayma konusundaki düşünce biçimlerini şimdiden değiştiriyor.
+- [The Great Courses, "Çatışma Yönetimi Sanatı: Yaşam, İş ve Ötesi İçin Çözümlere Ulaşmak", 2010](https://www.amazon.com/Art-Conflict-Management-Achieving-Solutions/dp/B00DTO4OB0)  
+Herkesin profesyonel ve kişisel yaşamında çatışmayı daha iyi yönetmesi için kullanabileceği pratik ipuçları, araçlar ve tekniklerle dolu 24 derste, çatışma yönetiminin temel becerilerini edinin.
+## Karar Verme
+- ["[Hayatımızdaki Algoritmalar: Günlük Kararların Bilgisayar Bilimi](http://amazon.com.tr/Hayat%C4%B1m%C4%B1zdaki-Algoritmalar-G%C3%BCnl%C3%BCk-Kararlar%C4%B1n-Bilgisayar/dp/6056685896)", Brian Christian, Tom Griffiths, 2016]
+- ["Kararlılık: Yaşamda ve İş Hayatında Daha İyi Seçimler Nasıl Yapılır?", Chip Heath, Dan Heath, 2013](https://www.amazon.com/Decisive-Make-Better-Choices-Life-ebook/dp/B009JU6UPG)  
+- ["Öngörülebilir Şekilde Mantıksız: Kararlarımızı Şekillendiren Gizli Güçler", Dr. Dan Ariely, 2009](https://www.amazon.com/Predictably-Irrational-Hidden-Forces-Decisions/dp/0061854549)  
+- ["Hızlı ve Yavaş Düşünme", Daniel Kahneman, 2011](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637)  
 
-## Decision Making
-- ["Algorithms to Live By: The Computer Science of Human Decisions", Brian Christian, Tom Griffiths, 2016](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)  
-- ["Decisive: How to Make Better Choices in Life and Work", Chip Heath, Dan Heath, 2013](https://www.amazon.com/Decisive-Make-Better-Choices-Life-ebook/dp/B009JU6UPG)  
-- ["Predictably Irrational: The Hidden Forces That Shape Our Decisions", Dr. Dan Ariely, 2009](https://www.amazon.com/Predictably-Irrational-Hidden-Forces-Decisions/dp/0061854549)  
-- ["Thinking, Fast and Slow", Daniel Kahneman, 2011](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637)  
+### Disiplin
+- ["Disiplin Özgürlüktür: Saha El Kitabı", Jocko Willink, 2017](https://www.nadirkitap.com/disiplin-ozgurluktur-jocko-willink-kitap44170038.html)
+- ["Aşırı Sahiplenme: ABD Donanması SEAL'leri Nasıl Liderlik Ediyor ve Kazanıyor?", Jocko Willink, Leif Babin, 2017](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250183863)
+- ["Yatağınızı Toplayın: Hayatınızı ve Belki de Dünyayı Değiştirebilecek Küçük Şeyler", William H. McRaven, 2017](https://www.kitapyurdu.com/kitap/yatagini-topla-hayatinizi-ve-belki-de-dunyayi-degistirebilecek-kucuk-seyler/432974.html?srsltid=AfmBOoqmLcQ3EveiRQ0A0hbU2Dwi77_6iw5pa1cTW2Qs_YuF1kDzdqSu)
 
-### Discipline
-- ["Discipline Equals Freedom: Field Manual", Jocko Willink, 2017](https://www.amazon.com/Discipline-Equals-Freedom-Field-Manual/dp/1250156947)
-- ["Extreme Ownership: How U.S. Navy SEALs Lead and Win", Jocko Willink, Leif Babin, 2017](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250183863)
-- ["Make Your Bed: Little Things That Can Change Your Life...And Maybe the World", William H. McRaven, 2017](https://www.amazon.com/Make-Your-Bed-Little-Things-ebook/dp/B01KFJGT50)
+### Mutluluk
+- ["Pozitif Düşünmeye Dayanamayanlar İçin Panzehir: Mutluluk", Oliver Burkeman, 2012](https://www.kitapyurdu.com/kitap/panzehir-pozitif-dusunmeye-katlanamayanlar-icin-mutluluk/327714.html?srsltid=AfmBOopzzjUuf1xmVx2uKXXep2B6KzzyqF-yPtmdpTMa9-jRfFnVpR-8)  
+- ["Umursamamanın İnce Sanatı: İyi Bir Yaşam Sürmek İçin Sezgiye Aykırı Bir Yaklaşım", Mark Manson, 2016](https://www.amazon.com.tr/Ustal%C4%B1k-Gerektiren-Kafaya-Takmama-Sanat%C4%B1/dp/6059397255)  
+- ["Zihninden Çık Hayatına Gir: Kabul ve Karanlık Terapisi (ACT) İle Kendine Yardım Kılavuzu", Gary John Bishop, 2017](https://www.amazon.com.tr/Zihninden-%C3%87%C4%B1k-Hayat%C4%B1na-Gir-Karanl%C4%B1k/dp/6052023759)  
+- ["Sen Bir Harikasın®: Harikalığından Şüphe Etmeyi Nasıl Bırakırsın ve Muhteşem Bir Hayat Yaşamaya Nasıl Başlarsın?", Jen Sincero, 2013](https://www.amazon.com/You-Are-Badass%C2%AE-Doubting-Greatness/dp/0762447699)  
 
-### Happiness
-- ["The Antidote: Happiness for People Who Can't Stand Positive Thinking", Oliver Burkeman, 2012](https://www.amazon.com/Antidote-Happiness-People-Positive-Thinking/dp/0865479410)  
-- ["The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life", Mark Manson, 2016](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)  
-- ["Unfu\*k Yourself: Get Out of Your Head and into Your Life", Gary John Bishop, 2017](https://www.amazon.com/Unfu-Yourself-Your-Head-into/dp/0062803832)  
-- ["You Are a Badass®: How to Stop Doubting Your Greatness and Start Living an Awesome Life", Jen Sincero, 2013](https://www.amazon.com/You-Are-Badass%C2%AE-Doubting-Greatness/dp/0762447699)  
+### Müzakere
+- ["Riskler Yüksek Olduğunda Konuşmak İçin Kritik Konuşma Araçları", Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler, 2011](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328)  
+- ["Zorlu Konuşmalar: Önemli Konular Nasıl Tartışılmalı", Douglas Stone, Bruce Patton, Sheila Heen, Roger Fisher](https://www.amazon.com.tr/Zorlu-Konu%C5%9Fmalar-%C3%96nemli-Konular-Tart%C4%B1%C5%9F%C4%B1lmal%C4%B1/dp/6057409248)  
+- ["Zorlu Konuşmalar: Önemli Konular Nasıl Tartışılmalı", William L. Ury, 1993](https://www.amazon.com.tr/Zorlu-Konu%C5%9Fmalar-%C3%96nemli-Konular-Tart%C4%B1%C5%9F%C4%B1lmal%C4%B1/dp/6057409248)  
+- ["Evet'e Ulaşmak: Pes Etmeden Anlaşmaya Varmak", Roger Fisher, William L. Ury, Bruce Patton, 2011](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757)  
+- ["Farkı Asla Bölmeyin: Hayatınız Buna Bağlıymış Gibi Pazarlık Yapın", Chris Voss, 2016](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805)  
+- ["Büyük Kurslar: En İyi Anlaşmayı Yapma Sanatı", Seth Freeman, 2014](https://www.amazon.com/Art-Negotiating-Best-Deal/dp/B00K2NEINA)  
 
-### Negotiation
-- ["Crucial Conversations Tools for Talking When Stakes Are High", Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler, 2011](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328)  
-- ["Difficult Conversations: How to Discuss What Matters Most", Douglas Stone, Bruce Patton, Sheila Heen, Roger Fisher](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447)  
-- ["Getting Past No: Negotiating in Difficult Situations", William L. Ury, 1993](https://www.amazon.com/Getting-Past-Negotiating-Difficult-Situations/dp/0553371312)  
-- ["Getting to Yes: Negotiating Agreement Without Giving In", Roger Fisher, William L. Ury, Bruce Patton, 2011](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757)  
-- ["Never Split the Difference: Negotiating As If Your Life Depended On It", Chris Voss, 2016](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805)  
-- ["The Great Courses: The Art of Negotiating the Best Deal", Seth Freeman, 2014](https://www.amazon.com/Art-Negotiating-Best-Deal/dp/B00K2NEINA)  
+## TED Konuşmaları
+- [Jonathan Haidt, "Liberallerin ve muhafazakarların ahlaki kökleri", 2008](http://www.ted.com/talks/jonathan_haidt_on_the_moral_mind)  
+Psikolog Jonathan Haidt, ister sol, ister sağ, ister merkezci olalım, siyasi tercihlerimizin temelini oluşturan beş ahlaki değeri inceliyor. Bu ufuk açıcı konuşmada, liberallerin ve muhafazakârların en çok saygı duyduğu ahlaki değerleri vurguluyor.
+- [Sam Harris, "Bilim ahlaki sorulara cevap verebilir", 2010](http://www.ted.com/talks/sam_harris_science_can_show_what_s_right)  
+İyi ve kötü, doğru ve yanlış gibi sorular genellikle bilim tarafından cevaplanamaz olarak kabul edilir. Ancak Sam Harris, bilimin ahlaki konularda otorite olabileceğini ve olması gerektiğini, insan değerlerini şekillendirebileceğini ve iyi bir yaşamın neleri içerdiğini ortaya koyabileceğini savunuyor.
 
-## Ted Talks
-- [Jonathan Haidt, "The moral roots of liberals and conservatives", 2008](http://www.ted.com/talks/jonathan_haidt_on_the_moral_mind)  
-Psychologist Jonathan Haidt studies the five moral values that form the basis of our political choices, whether we're left, right or center. In this eye-opening talk, he pinpoints the moral values that liberals and conservatives tend to honor most.
-- [Sam Harris, "Science can answer moral questions", 2010](http://www.ted.com/talks/sam_harris_science_can_show_what_s_right)  
-Questions of good and evil, right and wrong are commonly thought unanswerable by science. But Sam Harris argues that science can — and should — be an authority on moral issues, shaping human values and setting out what constitutes a good life.
-
-## University Courses
+## Üniversite Kursları
 
 ### MIT
-- [John Gabrieli, "9.00 Introduction to Psychology", 2011](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011/)  
-This course is a survey of the scientific study of human nature, including how the mind works, and how the brain supports the mind. Topics include the mental and neural bases of perception, emotion, learning, memory, cognition, child development, personality, psychopathology, and social interaction. Students will consider how such knowledge relates to debates about nature and nurture, free will, consciousness, human differences, self, and society.  
+- [John Gabrieli, "9.00 Psikolojiye Giriş", 2011](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011/)  
+Bu ders, zihnin nasıl çalıştığı ve beynin zihni nasıl desteklediği de dahil olmak üzere insan doğasının bilimsel incelemesine dair bir genel bakış sunar. Konular arasında algının zihinsel ve sinirsel temelleri, duygu, öğrenme, hafıza, biliş, çocuk gelişimi, kişilik, psikopatoloji ve sosyal etkileşim yer alır. Öğrenciler, bu bilginin doğa ve yetiştirme, özgür irade, bilinç, insan farklılıkları, benlik ve toplum hakkındaki tartışmalarla nasıl ilişkili olduğunu değerlendireceklerdir.
 
-### Wesleyan University  
-- [Scott Plous, "Social Psychology", 2012]()
-_Missing Link_
+### Wesleyan Üniversitesi
+- [Scott Plous, "Sosyal Psikoloji", 2012](https://www.classcentral.com/course/socialpsychology-555)
+
 
 ### Yale
-- [Paul Bloom, "Moralities of Everyday Life", 2013](https://www.coursera.org/learn/moralities/)  
-How can we explain kindness and cruelty? Where does our sense of right and wrong come from? Why do people so often disagree about moral issues? This course explores the psychological foundations of our moral lives.
-- [Paul Bloom, "PSYC 110: Introduction to Psychology", 2007](http://oyc.yale.edu/psychology/psyc-110)  
-What do your dreams mean? Do men and women differ in the nature and intensity of their sexual desires? Can apes learn sign language? Why can’t we tickle ourselves? This course tries to answer these questions and many others, providing a comprehensive overview of the scientific study of thought and behavior. It explores topics such as perception, communication, learning, memory, decision-making, religion, persuasion, love, lust, hunger, art, fiction, and dreams. We will look at how these aspects of the mind develop in children, how they differ across people, how they are wired-up in the brain, and how they break down due to illness and injury.
-- [Kelly D. Brownell, "PSYC 123: The Psychology, Biology And Politics Of Food", 2008](http://oyc.yale.edu/psychology/psyc-123)  
-This course encompasses the study of eating as it affects the health and well-being of every human. Topics include taste preferences, food aversions, the regulation of hunger and satiety, food as comfort and friendship, eating as social ritual, and social norms of blame for food problems. The politics of food discusses issues such as sustainable agriculture, organic farming, genetically modified foods, nutrition policy, and the influence of food and agriculture industries. Also examined are problems such as malnutrition, eating disorders, and the global obesity epidemic; the impact of food advertising aimed at children; poverty and food; and how each individual's eating is affected by the modern environment.
+- [Paul Bloom, "Günlük Yaşamın Ahlakı", 2013](https://www.coursera.org/learn/moralities/)  
+Nezaket ve zulmü nasıl açıklayabiliriz? Doğru ve yanlış algımız nereden geliyor? İnsanlar neden ahlaki konularda bu kadar sık ​​fikir ayrılığına düşüyor? Bu ders, ahlaki yaşamımızın psikolojik temellerini inceliyor.
+- [Paul Bloom, "PSYC 110: Psikolojiye Giriş", 2007](http://oyc.yale.edu/psychology/psyc-110)  
+Rüyalarınız ne anlama geliyor? Erkekler ve kadınlar cinsel arzularının niteliği ve yoğunluğu açısından farklılık gösterir mi? Maymunlar işaret dilini öğrenebilir mi? Neden kendimizi gıdıklayamıyoruz? Bu kurs, düşünce ve davranışın bilimsel incelemesine kapsamlı bir genel bakış sunarak bu ve diğer birçok soruyu yanıtlamaya çalışır. Algı, iletişim, öğrenme, hafıza, karar verme, din, ikna, aşk, şehvet, açlık, sanat, kurgu ve rüyalar gibi konuları ele alır. Zihnin bu yönlerinin çocuklarda nasıl geliştiğini, insanlar arasında nasıl farklılık gösterdiğini, beyinde nasıl yapılandırıldığını ve hastalık ve yaralanma nedeniyle nasıl bozulduğunu inceleyeceğiz.
+- [Kelly D. Brownell, "PSYC 123: Gıdanın Psikolojisi, Biyolojisi ve Politikası", 2008](http://oyc.yale.edu/psychology/psyc-123)  
+Bu ders, her insanın sağlık ve refahını etkileyen yeme alışkanlıklarını inceler. Konular arasında tat tercihleri, gıda isteksizlikleri, açlık ve tokluk düzenlemesi, rahatlık ve dostluk olarak yemek, sosyal ritüel olarak yemek yeme ve gıda sorunlarının toplumsal normları yer alır. Gıda politikaları, sürdürülebilir tarım, organik tarım, genetiği değiştirilmiş gıdalar, beslenme politikası ve gıda ve tarım endüstrilerinin etkisi gibi konuları ele alır. Ayrıca yetersiz beslenme, yeme bozuklukları ve küresel obezite salgını gibi sorunlar; çocuklara yönelik gıda reklamlarının etkisi; yoksulluk ve gıda; ve her bireyin beslenmesinin modern çevre tarafından nasıl etkilendiği de incelenir.
